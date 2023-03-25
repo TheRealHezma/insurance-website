@@ -1,1 +1,49 @@
 
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Mansour Financial</title>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ 
+ <header>
+  <h1
+   style="color: LightBlue; Background-color: Blue">
+   Mansour Financial</h1>
+ </header>
+ <body>
+  <main <p>Life and Health Insurance.</p>
+   <h2>What will happen when you pass?</h2>
+   <p>Life insurance removes the financial
+    stress your passing will have on your
+    family. Life insurance pays for anything
+    your family may need:
+    <li><strong>Funeral Expences</strong>
+    </li>
+    <li><strong>Mortgage</strong></li>
+    <li><strong>Bills</strong></li>
+   </p>
+   
+   <p>Have a <Strong>Licensed
+     Agent</strong> contact you for more
+    information.</p><br>
+   <form>
+    <fieldset>
+     <input type="text"
+      placeholder="Name"><br>
+     <input type="text"
+      placeholder="Date of Birth"><br>
+     <input type="number"
+      placeholder="Phone Number"><br>
+     <button>Submit</button><br><br>
+    </fieldset><br><br>
+   </form>
+  </main>
+  <foot>
+   <a href="/meet-agent.html">Meet your
+    Agent</a>
+  </foot>
+  <script src="script.js">
+  </script>
+ </body>
+</html>
